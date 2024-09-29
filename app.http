@@ -1,0 +1,7 @@
+POST http://localhost:3000/user/register
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "address": "123 Main St"
+}
